@@ -1,0 +1,11 @@
+﻿__pycache__/
+*.pyc
+.pytest_cache/
+out.csv
+out_gbk.csv
+x.csv
+e.csv
+report.json
+report_gbk.json
+r_empty.json
+logs/
