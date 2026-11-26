@@ -1,0 +1,6 @@
+id,name,age,email,joined,city
+1,Alice,30,a@x.com,2020-01-01,北京
+2,bob ,N/A,B@X.COM,2020-02-30,上海
+2,bob ,N/A,B@X.COM,2020-02-30,上海
+3,,25,not-an-email,2021-13-01,广州
+4,Dan,-5,d@x.com,2019-12-31,深圳
